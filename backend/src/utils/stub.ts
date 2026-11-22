@@ -1,0 +1,1 @@
+export const stubLog = (name: string) => console.log(`[STUB] ${name} called`);
